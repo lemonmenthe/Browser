@@ -10,4 +10,5 @@
 
     <color name="light_gray">#989393</color>
     <color name="dart_gray">#595955</color>
+    <color name="transparent">#00000000</color>
 </resources>
